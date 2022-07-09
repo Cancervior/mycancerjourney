@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mycancerjourney/static/css/main.e2a7211c.css",
+    "main.js": "/mycancerjourney/static/js/main.9491a22d.js",
+    "static/js/787.7911c749.chunk.js": "/mycancerjourney/static/js/787.7911c749.chunk.js",
+    "index.html": "/mycancerjourney/index.html",
+    "main.e2a7211c.css.map": "/mycancerjourney/static/css/main.e2a7211c.css.map",
+    "main.9491a22d.js.map": "/mycancerjourney/static/js/main.9491a22d.js.map",
+    "787.7911c749.chunk.js.map": "/mycancerjourney/static/js/787.7911c749.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2a7211c.css",
+    "static/js/main.9491a22d.js"
+  ]
+}
